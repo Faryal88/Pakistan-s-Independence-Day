@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightgreen;
+    color: #000;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+
+.flag {
+    width: 150px;
+    margin-top: 20px;
+}
+
+h1 {
+    color: darkgreen;
+}
+
+h2 {
+    color: darkgreen;
+    margin-top: 20px;
+}
+
+p {
+    margin: 20px;
+    line-height: 1.6;
+}
+
+blockquote {
+    font-style: italic;
+    color: darkgreen;
+    margin: 20px;
+    border-left: 5px solid darkgreen;
+    padding-left: 15px;
+}
+
